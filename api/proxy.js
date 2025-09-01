@@ -19,7 +19,8 @@ const domain_mappings = {
   'githubusercontent.com': 'v-githubusercontent-com.xcqcoo.top',
   'github.global.ssl.fastly.net': 'v-github-global-ssl-fastly-net.xcqcoo.top',
   'api.npms.io': 'v-api-npms-io.xcqcoo.top',
-  'github.community': 'v-github-community.xcqcoo.top'
+  'github.community': 'v-github-community.xcqcoo.top',
+  'camo.githubusercontent.com': 'v-camo-githubusercontent-com.xcqcoo.top'
 };
 
 // 需要重定向的路径
