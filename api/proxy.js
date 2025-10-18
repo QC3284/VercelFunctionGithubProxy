@@ -20,7 +20,8 @@ const domain_mappings = {
   'github.global.ssl.fastly.net': 'v-github-global-ssl-fastly-net.xcqcoo.top',
   'api.npms.io': 'v-api-npms-io.xcqcoo.top',
   'github.community': 'v-github-community.xcqcoo.top',
-  'camo.githubusercontent.com': 'v-camo-githubusercontent-com.xcqcoo.top'
+  'camo.githubusercontent.com': 'v-camo-githubusercontent-com.xcqcoo.top',
+  'release-assets.githubusercontent.com': 'v-release-assets-githubusercontent-com.xcqcoo.top'
 };
 
 // 需要重定向的路径
